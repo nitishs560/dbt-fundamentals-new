@@ -1,3 +1,3 @@
 # dbt-fundamentals-new
 
-Readme people yes
+Readme people yes readme.
